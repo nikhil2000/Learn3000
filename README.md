@@ -44,8 +44,8 @@ _______________
 _______________
 
 
-<details>
-<summary>Core Java</summary>
+
+# Core Java
 
 | Resource  | Progress|
 |---|---|
@@ -100,13 +100,14 @@ _______________
   | Resource  | Progress|
   |---|---|
   | [placeHolder](https://www.vmware.com/in/topics/glossary/content/message-brokers.html) | X |
-  
+  </details>
+      
   <details>
   <summary>Java Multithreading</summary>
   | Resource  | Progress|
   |---|---|
   | [Udemy: Java Multithreading](https://www.udemy.com/course/java-multithreading/) | X |
-
+  </details>
   
 
 
