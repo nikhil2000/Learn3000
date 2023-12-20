@@ -43,12 +43,14 @@ _______________
 **Resources**: 
 _______________
 
-# Core Java :
+
+<details>
+<summary>Core Java</summary>
 
 | Resource  | Progress|
 |---|---|
 | [spaceholder](https://google.com) | ✓ |
-
+</details>
 
 # SQL:
 
@@ -91,7 +93,7 @@ _______________
 |[Udemy: Java8 by Durga ](https://www.udemy.com/course/java-8-new-features-in-simple-way) | ✓ |
 
 
-# Java Internals
+# Java Internals :
   # Java Concurrency
   | Resource  | Progress|
   |---|---|
@@ -100,12 +102,8 @@ _______________
   # Java Multithreading
   | Resource  | Progress|
   |---|---|
-  | [placeHolder](https://www.vmware.com/in/topics/glossary/content/message-brokers.html) | X |
+  | [Udemy: Java Multithreading](https://www.udemy.com/course/java-multithreading/) | X |
 
-  # Java Concurrency
-  | Resource  | Progress|
-  |---|---|
-  | [placeHolder](https://www.vmware.com/in/topics/glossary/content/message-brokers.html) | X |
   
 
 
