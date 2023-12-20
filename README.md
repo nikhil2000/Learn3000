@@ -8,20 +8,20 @@ Java Developer - topics to cover
 | Git Basics |   |
 | CI/CD (Any tool) |   |
 | Space and Time Complexities |   |
+| Algorithms and Datastructures |   |
 | Java 8 |   |
 | Java Internals - Collections,multithreading etc|   |
-| Java Internals - advanced |
+| Java Internals - advanced |   |
+| SOLID & other Design Principles |   |
+| Design Patterns |   |
 | Spring |   |
 | Spring Boot|   |
-| Hibernate |   |
+| ORM - Hibernate |   |
 | HTMl, CSS, JavaScript basics|   |
 | Unit Testing - Junit|   |
 | Databases- NoSQL |   |
 | Linux Commands|   |
-| SOLID & other Design Principles |   |
-| Design Patterns |   |
 | SOAP and REST|   |
-| Algorithms and Datastructures |   |
 | Agile Model |   |
 | Build Tools- Maven /ANT /Gradle|   |
 | JPA|   |
