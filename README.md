@@ -50,7 +50,7 @@ _______________
 | Resource  | Progress|
 |---|---|
 | [spaceholder](https://google.com) | ✓ |
-</details>
+
 
 # SQL:
 
@@ -94,12 +94,15 @@ _______________
 
 
 # Java Internals :
-  # Java Concurrency
+  
+  <details>
+  <summary>Java Concurrency</summary>
   | Resource  | Progress|
   |---|---|
   | [placeHolder](https://www.vmware.com/in/topics/glossary/content/message-brokers.html) | X |
   
-  # Java Multithreading
+  <details>
+  <summary>Java Multithreading</summary>
   | Resource  | Progress|
   |---|---|
   | [Udemy: Java Multithreading](https://www.udemy.com/course/java-multithreading/) | X |
