@@ -2,7 +2,7 @@ Java Developer - topics to cover
 
 | Topic  | Progress|
 | --- |---|
-| Core Java | ✓ |
+| [Core Java](#-Java) | ✓ |
 | SQl Basics |  |
 | Advanced Java -Servlets, JSP, JDBC|   |
 | Git Basics |   |
@@ -37,7 +37,7 @@ Java Developer - topics to cover
 
 Resources:
 
-Java:
+#Java:
 
 | Resource  | Progress|
 |---|---|
