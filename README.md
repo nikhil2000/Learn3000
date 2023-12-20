@@ -37,6 +37,7 @@ Java Developer - topics to cover
 | Message Brokers |   |
 | Microservices |   |
 | JPA |   |
+| Security |  | 
 
 
 _______________
@@ -167,6 +168,10 @@ _______________
   |---|---|
   | [placeHolder](https://www.vmware.com/in/topics/glossary/content/message-brokers.html) | X |
 
+ # Security
+ | Resource  | Progress|
+ |---|---|
+ | [OWASP article](https://owasp.org/www-project-top-ten/) | X |
 
 _______________
 **References**: 
