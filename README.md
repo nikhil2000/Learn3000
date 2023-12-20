@@ -16,7 +16,7 @@ Java Developer - topics to cover
 | Unit Testing - Junit|   |
 | Databases- NoSQL |   |
 | Linux Commands|   |
-| Design Principles |   |
+| SOLID & other Design Principles |   |
 | Design Patterns |   |
 | SOAP and REST|   |
 | Algorithms and Datastructures |   |
@@ -31,3 +31,67 @@ Java Developer - topics to cover
 | Writing Clean Code|   |
 | Refactoring |   |
 | Auditing - Sonarcube/ Veracode|   |
+
+
+
+
+Resources:
+
+Java:
+
+| Resource  | Progress|
+|---|---|
+| [spaceholder](https://google.com) | ✓ |
+
+SQL:
+
+| Resource  | Progress|
+|---|---|
+| [spaceholder](https://google.com) | ✓ |
+
+Advanced Java:
+
+| Resource  | Progress|
+|---|---|
+| [spaceholder](https://google.com) | ✓ |
+
+Git:
+
+| Resource  | Progress|
+|---|---|
+| [spaceholder](https://google.com) | ✓ |
+
+CI/CD:
+
+| Resource  | Progress|
+|---|---|
+| [spaceholder](https://google.com) | ✓ |
+
+Space and Time Complexities:
+
+| Resource  | Progress|
+|---|---|
+| [space and time complexity](https://google.com) | ✓ |
+
+Java 8:
+| Resource  | Progress|
+|---|---|
+|[Udemy: Java8 by Durga ](https://www.udemy.com/course/java-8-new-features-in-simple-way) | ✓ |
+
+Spring:
+
+| Resource  | Progress|
+|---|---|
+| [spaceholder](https://google.com) | ✓ |
+
+Spring Boot:
+
+| Resource  | Progress|
+|---|---|
+| [spaceholder](https://google.com) | ✓ |
+
+Hibernate:
+
+| Resource  | Progress|
+|---|---|
+| [spaceholder](https://google.com) | ✓ |
