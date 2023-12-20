@@ -35,7 +35,10 @@ Java Developer - topics to cover
 
 
 
-**Resources**:
+
+_______________
+|**Resources**: |
+_______________
 
 # Core Java :
 
@@ -43,11 +46,13 @@ Java Developer - topics to cover
 |---|---|
 | [spaceholder](https://google.com) | ✓ |
 
+
 # SQL:
 
 | Resource  | Progress|
 |---|---|
 | [spaceholder](https://google.com) | ✓ |
+
 
 # Advanced Java:
 
@@ -55,11 +60,13 @@ Java Developer - topics to cover
 |---|---|
 | [spaceholder](https://google.com) | ✓ |
 
+
 # Git:
 
 | Resource  | Progress|
 |---|---|
 | [spaceholder](https://google.com) | ✓ |
+
 
 # CI/CD:
 
@@ -67,16 +74,19 @@ Java Developer - topics to cover
 |---|---|
 | [spaceholder](https://google.com) | ✓ |
 
+
 # Space and Time Complexities:
 
 | Resource  | Progress|
 |---|---|
 | [space and time complexity](https://google.com) | ✓ |
 
+
 # Java 8:
 | Resource  | Progress|
 |---|---|
 |[Udemy: Java8 by Durga ](https://www.udemy.com/course/java-8-new-features-in-simple-way) | ✓ |
+
 
 # Spring:
 
@@ -84,14 +94,23 @@ Java Developer - topics to cover
 |---|---|
 | [spaceholder](https://google.com) | ✓ |
 
+
 # Spring Boot:
 
 | Resource  | Progress|
 |---|---|
 | [spaceholder](https://google.com) | ✓ |
 
+
 # Hibernate:
 
 | Resource  | Progress|
 |---|---|
 | [spaceholder](https://google.com) | ✓ |
+
+
+# SOLID & other Design Principles:
+
+| Resource  | Progress|
+|---|---|
+| [spaceholder](https://javarevisited.blogspot.com/2018/07/10-object-oriented-design-principles.html) | X |
