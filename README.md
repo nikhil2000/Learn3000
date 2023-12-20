@@ -9,6 +9,8 @@ Java Developer - topics to cover
 | CI/CD (Any tool) |   |
 | Space and Time Complexities |   |
 | Java 8 |   |
+| Java Internals - Collections,multithreading etc|   |
+| Java Internals - advanced |
 | Spring |   |
 | Spring Boot|   |
 | Hibernate |   |
@@ -33,12 +35,12 @@ Java Developer - topics to cover
 | Auditing - Sonarcube/ Veracode|   |
 | Caching / Cache memory |   |
 | Message Brokers |   |
-
-
+| Microservices |   |
+| JPA |   |
 
 
 _______________
-|**Resources**: |
+**Resources**: 
 _______________
 
 # Core Java :
@@ -89,6 +91,24 @@ _______________
 |[Udemy: Java8 by Durga ](https://www.udemy.com/course/java-8-new-features-in-simple-way) | ✓ |
 
 
+# Java Internals
+  # Java Concurrency
+  | Resource  | Progress|
+  |---|---|
+  | [placeHolder](https://www.vmware.com/in/topics/glossary/content/message-brokers.html) | X |
+  
+  # Java Multithreading
+  | Resource  | Progress|
+  |---|---|
+  | [placeHolder](https://www.vmware.com/in/topics/glossary/content/message-brokers.html) | X |
+
+  # Java Concurrency
+  | Resource  | Progress|
+  |---|---|
+  | [placeHolder](https://www.vmware.com/in/topics/glossary/content/message-brokers.html) | X |
+  
+
+
 # Spring:
 
 | Resource  | Progress|
@@ -131,4 +151,15 @@ _______________
 |---|---|
 | [Intro article](https://www.vmware.com/in/topics/glossary/content/message-brokers.html) | X |
 
+# Java Internals - advanced
+  
+ # JVM Internals
+  | Resource  | Progress|
+  |---|---|
+  | [placeHolder](https://www.vmware.com/in/topics/glossary/content/message-brokers.html) | X |
+  
+  # Java Memory management 
+  | Resource  | Progress|
+  |---|---|
+  | [placeHolder](https://www.vmware.com/in/topics/glossary/content/message-brokers.html) | X |
 
