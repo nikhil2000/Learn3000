@@ -97,6 +97,7 @@ _______________
   
   <details>
   <summary>Java Concurrency</summary>
+    
   | Resource  | Progress|
   |---|---|
   | [placeHolder](https://www.vmware.com/in/topics/glossary/content/message-brokers.html) | X |
@@ -104,6 +105,7 @@ _______________
       
   <details>
   <summary>Java Multithreading</summary>
+    
   | Resource  | Progress|
   |---|---|
   | [Udemy: Java Multithreading](https://www.udemy.com/course/java-multithreading/) | X |
