@@ -167,3 +167,9 @@ _______________
   |---|---|
   | [placeHolder](https://www.vmware.com/in/topics/glossary/content/message-brokers.html) | X |
 
+
+_______________
+**References**: 
+_______________
+ | [JavaRevisited : Java developer Roadmap](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#axzz8MQQhZREV) |
+
