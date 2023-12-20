@@ -35,7 +35,7 @@ Java Developer - topics to cover
 
 
 
-Resources:
+**Resources**:
 
 # Core Java :
 
@@ -43,54 +43,54 @@ Resources:
 |---|---|
 | [spaceholder](https://google.com) | ✓ |
 
-SQL:
+# SQL:
 
 | Resource  | Progress|
 |---|---|
 | [spaceholder](https://google.com) | ✓ |
 
-Advanced Java:
+# Advanced Java:
 
 | Resource  | Progress|
 |---|---|
 | [spaceholder](https://google.com) | ✓ |
 
-Git:
+# Git:
 
 | Resource  | Progress|
 |---|---|
 | [spaceholder](https://google.com) | ✓ |
 
-CI/CD:
+# CI/CD:
 
 | Resource  | Progress|
 |---|---|
 | [spaceholder](https://google.com) | ✓ |
 
-Space and Time Complexities:
+# Space and Time Complexities:
 
 | Resource  | Progress|
 |---|---|
 | [space and time complexity](https://google.com) | ✓ |
 
-Java 8:
+# Java 8:
 | Resource  | Progress|
 |---|---|
 |[Udemy: Java8 by Durga ](https://www.udemy.com/course/java-8-new-features-in-simple-way) | ✓ |
 
-Spring:
+# Spring:
 
 | Resource  | Progress|
 |---|---|
 | [spaceholder](https://google.com) | ✓ |
 
-Spring Boot:
+# Spring Boot:
 
 | Resource  | Progress|
 |---|---|
 | [spaceholder](https://google.com) | ✓ |
 
-Hibernate:
+# Hibernate:
 
 | Resource  | Progress|
 |---|---|
