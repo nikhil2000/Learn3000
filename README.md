@@ -31,7 +31,8 @@ Java Developer - topics to cover
 | Writing Clean Code|   |
 | Refactoring |   |
 | Auditing - Sonarcube/ Veracode|   |
-
+| Caching / Cache memory |   |
+| Message Brokers |   |
 
 
 
@@ -114,3 +115,20 @@ _______________
 | Resource  | Progress|
 |---|---|
 | [spaceholder](https://javarevisited.blogspot.com/2018/07/10-object-oriented-design-principles.html) | X |
+
+
+# Cache memory
+
+| Resource  | Progress|
+|---|---|
+| [Intro article](https://www.geeksforgeeks.org/cache-memory-in-computer-organization/) | X |
+| [Java Cache](https://dzone.com/refcardz/java-caching) | X |
+
+
+# Message Brokers
+
+| Resource  | Progress|
+|---|---|
+| [Intro article](https://www.vmware.com/in/topics/glossary/content/message-brokers.html) | X |
+
+
