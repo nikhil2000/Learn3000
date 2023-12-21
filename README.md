@@ -173,6 +173,8 @@ _______________
  |---|---|
  | [OWASP article](https://owasp.org/www-project-top-ten/) | X |
 
+# SOLID 
+Article : https://dev.to/tamerlang/understanding-solid-principles-single-responsibility-principle-523j
 _______________
 **References**: 
 _______________
