@@ -125,7 +125,7 @@ _______________
 
 | Resource  | Progress|
 |---|---|
-| [spaceholder](https://google.com) | ✓ |
+| [Book: Grokking the Spring Boot interview By Javin Paul](https://www.amazon.in/Grokking-Spring-Boot-Interview-Javin-ebook/dp/B08V1NN4LW/) | ✓ |
 
 
 # Hibernate:
