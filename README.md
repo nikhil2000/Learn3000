@@ -37,6 +37,7 @@ Java Developer - topics to cover
 | Message Brokers |   |
 | Microservices |   |
 | JPA |   |
+| Networking and Protocols |   |
 | Security |  | 
 
 
@@ -179,5 +180,6 @@ Article : LSP - Liskov Substition principle (https://reflectoring.io/lsp-explain
 _______________
 **References**: 
 _______________
- | [JavaRevisited : Java developer Roadmap](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#axzz8MQQhZREV) |
+  [JavaRevisited : Java developer Roadmap](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#axzz8MQQhZREV) 
+   [JavaDocs Tutorials ](https://docs.oracle.com/javase/tutorial/index.html)
 
