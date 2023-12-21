@@ -175,6 +175,7 @@ _______________
 
 # SOLID 
 Article : https://dev.to/tamerlang/understanding-solid-principles-single-responsibility-principle-523j
+Article : LSP - Liskov Substition principle (https://reflectoring.io/lsp-explained/ )
 _______________
 **References**: 
 _______________
