@@ -39,6 +39,7 @@ Java Developer - topics to cover
 | JPA |   |
 | Networking and Protocols |   |
 | Security |  | 
+|Coding Practice |   |
 
 
 _______________
@@ -58,7 +59,7 @@ _______________
 
 | Resource  | Progress|
 |---|---|
-| [spaceholder](https://google.com) | ✓ |
+| [Sql Exercises :w3resource.com ](https://www.w3resource.com/sql-exercises/) | ✓ |
 
 
 # Advanced Java:
@@ -182,4 +183,6 @@ _______________
 _______________
   [JavaRevisited : Java developer Roadmap](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#axzz8MQQhZREV) 
    [JavaDocs Tutorials ](https://docs.oracle.com/javase/tutorial/index.html)
+
+   | Coding Practice | https://leetcode.com/ | [https://neetcode.io/](https://neetcode.io/roadmap)  | 
 
