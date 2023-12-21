@@ -97,14 +97,6 @@ _______________
 
 
 # Java Internals :
-  
-  <details>
-  <summary>Java Concurrency</summary>
-    
-  | Resource  | Progress|
-  |---|---|
-  | [placeHolder](https://www.vmware.com/in/topics/glossary/content/message-brokers.html) | X |
-  </details>
       
   <details>
   <summary>Java Multithreading</summary>
@@ -113,6 +105,8 @@ _______________
   |---|---|
   | [Udemy: Java Multithreading](https://www.udemy.com/course/java-multithreading/) | X |
   </details>
+
+  
   
 
 
@@ -169,6 +163,12 @@ _______________
   | Resource  | Progress|
   |---|---|
   | [placeHolder](https://www.vmware.com/in/topics/glossary/content/message-brokers.html) | X |
+
+  # Java concurrency API, GC tuning,
+  | Resource  | Progress|
+  |---|---|
+  | [placeHolder](https://www.vmware.com/in/topics/glossary/content/message-brokers.html) | X |
+
 
  # Security
  | Resource  | Progress|
