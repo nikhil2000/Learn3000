@@ -9,7 +9,7 @@ Java Developer - topics to cover
 | CI/CD (Any tool) |   |
 | Space and Time Complexities |   |
 | Algorithms and Datastructures |   |
-| Java 8 |   |
+| [Java8](#Core-Java-) |  |
 | Java Internals - Collections,multithreading etc|   |
 | Java Internals - advanced |   |
 | SOLID & other Design Principles |   |
@@ -54,7 +54,6 @@ _______________
 |---|---|
 | [spaceholder](https://google.com) | ✓ |
 
-
 # SQL:
 
 | Resource  | Progress|
@@ -93,7 +92,10 @@ _______________
 # Java 8:
 | Resource  | Progress|
 |---|---|
-|[Udemy: Java8 by Durga ](https://www.udemy.com/course/java-8-new-features-in-simple-way) | ✓ |
+|[Udemy Course: Java8 by Durga ](https://www.udemy.com/course/java-8-new-features-in-simple-way) | ✓ |
+<details>
+  <summary>Parallel Programming- Parallel Streams API</summary>
+</details>
 
 
 # Java Internals :
