@@ -40,6 +40,7 @@ Java Developer - topics to cover
 | Networking and Protocols |   |
 | Security |  | 
 |Coding Practice |   |
+| System Design |   |
 
 
 _______________
@@ -176,6 +177,15 @@ _______________
  | Resource  | Progress|
  |---|---|
  | [OWASP article](https://owasp.org/www-project-top-ten/) | X |
+
+ # Design Patterns
+ |---|---|
+ | Factory Design Pattern | X |
+ | Abstract factory Pattern | X |
+ | Singleton Pattern | X |
+ | Observer Pattern | X |
+
+
 
 # SOLID 
 Article : https://dev.to/tamerlang/understanding-solid-principles-single-responsibility-principle-523j
