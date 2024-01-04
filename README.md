@@ -1,5 +1,8 @@
 Java Developer - topics to cover
 
+Add Levels -1,2,3 in each topic and interview questions.
+first level should just touch what it is and how it is related.
+
 | Topic  | Progress|
 | --- |---|
 | [Core Java](#Core-Java-) | ✓ |
