@@ -17,6 +17,7 @@ Java Developer - topics to cover
 | Spring |   |
 | Spring Boot|   |
 | ORM - Hibernate |   |
+| [Microservices](#MicroServices) |   |
 | HTMl, CSS, JavaScript basics|   |
 | Unit Testing - Junit|   |
 | Databases- NoSQL |   |
@@ -35,7 +36,6 @@ Java Developer - topics to cover
 | Auditing - Sonarcube/ Veracode|   |
 | Caching / Cache memory |   |
 | Message Brokers |   |
-| Microservices |   |
 | JPA |   |
 | Networking and Protocols |   |
 | Security |  | 
@@ -126,7 +126,6 @@ _______________
 |---|---|
 | [Book: Grokking the Spring Boot interview By Javin Paul](https://www.amazon.in/Grokking-Spring-Boot-Interview-Javin-ebook/dp/B08V1NN4LW/) | ✓ |
 | [SpringBoot Quickstart: Javabrains by koushik kothgal ](https://www.javabrains.io/courses/take/springboot-quickstart/) | ✓ |
-| [Youtube : Spring Boot Microservices Level 1: Communication and Discovery by koushik kothgal ](https://youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas&si=vEfDyH9f5GN_3P7_) | ✓ |
 
 
 # Hibernate:
@@ -135,6 +134,11 @@ _______________
 |---|---|
 | [spaceholder](https://google.com) | ✓ |
 
+# MicroServices:
+
+| Resource  | Progress|
+|---|---|
+| [Youtube : Spring Boot Microservices Level 1: Communication and Discovery by koushik kothgal ](https://youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas&si=vEfDyH9f5GN_3P7_) | ✓ |
 
 # SOLID & other Design Principles:
 
