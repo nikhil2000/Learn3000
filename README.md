@@ -193,10 +193,11 @@ _______________
  | Resource  | Progress|
  |---|---|
  [Intro : article- 3 types of design patterns ](https://www.freecodecamp.org/news/the-basic-design-patterns-all-developers-need-to-know/) | X |
- | Factory Design Pattern | X |
- | Abstract factory Pattern | X |
  | Singleton Pattern | X |
+ | Factory Design Pattern | X |
  | Observer Pattern | X |
+ | Abstract factory Pattern | X |
+ | Facade Pattern | X |
 
  # Kafka
   | Resource  | Progress|
