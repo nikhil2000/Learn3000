@@ -25,6 +25,7 @@ first level should just touch what it is and how it is related.
 | Unit Testing - Junit|   |
 | Databases- NoSQL |   |
 | Linux Commands|   |
+| Shell Scripting|   |
 | SOAP and REST|   |
 | Agile Model |   |
 | Build Tools- Maven /ANT /Gradle|   |
