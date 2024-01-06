@@ -196,8 +196,9 @@ _______________
  | Observer Pattern | X |
 
  # Kafka
+  |---|---|
   | [Intro -Kafka.com](https://kafka.apache.org/intro) | X |
-  | [Kafka vs Message Brokers ](https://blog.iron.io/message-queue-vs-apache-kafka/ )|  |
+  | [Kafka vs Message Brokers ](https://blog.iron.io/message-queue-vs-apache-kafka/ )| X |
 
 
 
