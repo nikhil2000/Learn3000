@@ -189,6 +189,7 @@ _______________
  | [OWASP article](https://owasp.org/www-project-top-ten/) | X |
 
  # Design Patterns
+ | Resource  | Progress|
  |---|---|
  | Factory Design Pattern | X |
  | Abstract factory Pattern | X |
@@ -196,6 +197,7 @@ _______________
  | Observer Pattern | X |
 
  # Kafka
+  | Resource  | Progress|
   |---|---|
   | [Intro -Kafka.com](https://kafka.apache.org/intro) | X |
   | [Kafka vs Message Brokers ](https://blog.iron.io/message-queue-vs-apache-kafka/ )| X |
