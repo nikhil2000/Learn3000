@@ -39,13 +39,13 @@ first level should just touch what it is and how it is related.
 | Auditing - Sonarcube/ Veracode|   |
 | Caching / Cache memory |   |
 | Message Brokers |   |
+| [Apache Kafka](#Kafka) |   |
 | JPA |   |
 | Networking and Protocols |   |
 | Security |  | 
 |Coding Practice |   |
 | System Design |   |
 | Reactive Programming |  |
-
 
 _______________
 **Resources**: 
@@ -194,6 +194,10 @@ _______________
  | Abstract factory Pattern | X |
  | Singleton Pattern | X |
  | Observer Pattern | X |
+
+ # Kafka
+  | [Intro -Kafka.com](https://kafka.apache.org/intro) | X |
+  | [Kafka vs Message Brokers ](https://blog.iron.io/message-queue-vs-apache-kafka/ )|  |
 
 
 
