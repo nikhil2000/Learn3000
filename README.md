@@ -19,6 +19,7 @@ first level should just touch what it is and how it is related.
 | Design Patterns |   |
 | Spring |   |
 | Spring Boot|   |
+| Spring Security|   |
 | ORM - Hibernate |   |
 | [Microservices](#MicroServices) |   |
 | HTMl, CSS, JavaScript basics|   |
@@ -47,6 +48,7 @@ first level should just touch what it is and how it is related.
 |Coding Practice |   |
 | System Design |   |
 | Reactive Programming |  |
+| Loggers |  |
 
 _______________
 **Resources**: 
