@@ -12,7 +12,7 @@ first level should just touch what it is and how it is related.
 | CI/CD (Any tool) |   |
 | Space and Time Complexities |   |
 | Algorithms and Datastructures |   |
-| [Java8](#Core-Java-) |  |
+| [Java8](#Java-8-) |  |
 | Java Internals - Collections,multithreading etc|   |
 | Java Internals - advanced |   |
 | SOLID & other Design Principles |   |
