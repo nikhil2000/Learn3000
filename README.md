@@ -147,9 +147,7 @@ _______________
 |---|---|
 | [Javabrains course Level 0: Spring boot quickstart by koushik kothgal ](https://www.javabrains.io/courses/take/springboot-quickstart) | X |
 | [Youtube : Spring Boot Microservices Level 1: Communication and Discovery by koushik kothgal ](https://youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas&si=vEfDyH9f5GN_3P7_) | X |
-
-| [Javabrains course Level 2: Fault Tolerance and Resilience by koushik kothgal ](https://www.javabrains.io/courses/take/spring-boot-microservices-level-2
-) | X |
+| [Javabrains course Level 2: Fault Tolerance and Resilience by koushik kothgal ](https://www.javabrains.io/courses/take/spring-boot-microservices-level-2) | X |
 
 
 
