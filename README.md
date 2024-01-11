@@ -60,47 +60,47 @@ _______________
 
 | Resource  | Progress|
 |---|---|
-| [spaceholder](https://google.com) | ✓ |
+| [spaceholder](https://google.com) | X |
 
 # SQL:
 
 | Resource  | Progress|
 |---|---|
-| [Sql Exercises :w3resource.com ](https://www.w3resource.com/sql-exercises/) | ✓ |
+| [Sql Exercises :w3resource.com ](https://www.w3resource.com/sql-exercises/) | X |
 
 
 # Advanced Java:
 
 | Resource  | Progress|
 |---|---|
-| [spaceholder](https://google.com) | ✓ |
+| [spaceholder](https://google.com) | X |
 
 
 # Git:
 
 | Resource  | Progress|
 |---|---|
-| [spaceholder](https://google.com) | ✓ |
+| [spaceholder](https://google.com) | X |
 
 
 # CI/CD:
 
 | Resource  | Progress|
 |---|---|
-| [spaceholder](https://google.com) | ✓ |
+| [spaceholder](https://google.com) | X |
 
 
 # Space and Time Complexities:
 
 | Resource  | Progress|
 |---|---|
-| [space and time complexity](https://google.com) | ✓ |
+| [space and time complexity](https://google.com) | X |
 
 
 # Java 8:
 | Resource  | Progress|
 |---|---|
-|[Udemy Course: Java8 by Durga ](https://www.udemy.com/course/java-8-new-features-in-simple-way) | ✓ |
+|[Udemy Course: Java8 by Durga ](https://www.udemy.com/course/java-8-new-features-in-simple-way) | X |
 <details>
   <summary>Parallel Programming- Parallel Streams API</summary>
 </details>
@@ -124,28 +124,34 @@ _______________
 
 | Resource  | Progress|
 |---|---|
-| [spaceholder](https://google.com) | ✓ |
+| [spaceholder](https://google.com) | X |
 
 
 # Spring Boot:
 
 | Resource  | Progress|
 |---|---|
-| [Book: Grokking the Spring Boot interview By Javin Paul](https://www.amazon.in/Grokking-Spring-Boot-Interview-Javin-ebook/dp/B08V1NN4LW/) | ✓ |
-| [SpringBoot Quickstart: Javabrains by koushik kothgal ](https://www.javabrains.io/courses/take/springboot-quickstart/) | ✓ |
+| [Book: Grokking the Spring Boot interview By Javin Paul](https://www.amazon.in/Grokking-Spring-Boot-Interview-Javin-ebook/dp/B08V1NN4LW/) | X |
+| [SpringBoot Quickstart: Javabrains by koushik kothgal ](https://www.javabrains.io/courses/take/springboot-quickstart/) | X |
 
 
 # Hibernate:
 
 | Resource  | Progress|
 |---|---|
-| [spaceholder](https://google.com) | ✓ |
+| [spaceholder](https://google.com) | X |
 
 # MicroServices:
 
 | Resource  | Progress|
 |---|---|
-| [Youtube : Spring Boot Microservices Level 1: Communication and Discovery by koushik kothgal ](https://youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas&si=vEfDyH9f5GN_3P7_) | ✓ |
+| [Javabrains course Level 0: Spring boot quickstart by koushik kothgal ](https://www.javabrains.io/courses/take/springboot-quickstart) | X |
+| [Youtube : Spring Boot Microservices Level 1: Communication and Discovery by koushik kothgal ](https://youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas&si=vEfDyH9f5GN_3P7_) | X |
+
+| [Javabrains course Level 2: Fault Tolerance and Resilience by koushik kothgal ](https://www.javabrains.io/courses/take/spring-boot-microservices-level-2
+) | X |
+
+
 
 # SOLID & other Design Principles:
 
