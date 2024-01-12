@@ -103,13 +103,8 @@ _______________
 |[Udemy Course: Java8 by Durga ](https://www.udemy.com/course/java-8-new-features-in-simple-way) | X |
 <details>
    <summary>Java8 Features</summary>
-   | Resource  | Progress|
-   |---|---|
-   | Git Basics |   |
-| CI/CD (Any tool) |   |
-| Space and Time Complexities |   |
-   |<summary>Functional Interfaces</summary>|    |
-  |<summary>Lambda</summary>|   |
+   <summary>Functional Interfaces</summary>
+ <summary>Lambda</summary>
   <summary>4 Functional Interfaces- Predicate, Function, Supplier, Consumer</summary>
   <summary>Streams</summary>
   <summary>:: Opearator</summary>
