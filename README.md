@@ -105,6 +105,9 @@ _______________
    <summary>Java8 Features</summary>
    | Resource  | Progress|
    |---|---|
+   | Git Basics |   |
+| CI/CD (Any tool) |   |
+| Space and Time Complexities |   |
    |<summary>Functional Interfaces</summary>|    |
   |<summary>Lambda</summary>|   |
   <summary>4 Functional Interfaces- Predicate, Function, Supplier, Consumer</summary>
