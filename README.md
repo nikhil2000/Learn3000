@@ -103,8 +103,10 @@ _______________
 |[Udemy Course: Java8 by Durga ](https://www.udemy.com/course/java-8-new-features-in-simple-way) | X |
 <details>
    <summary>Java8 Features</summary>
-  <summary>Functional Interfaces</summary>
-  <summary>Lambda</summary>
+   | Resource  | Progress|
+   |---|---|
+   |<summary>Functional Interfaces</summary>|    |
+  |<summary>Lambda</summary>|   |
   <summary>4 Functional Interfaces- Predicate, Function, Supplier, Consumer</summary>
   <summary>Streams</summary>
   <summary>:: Opearator</summary>
