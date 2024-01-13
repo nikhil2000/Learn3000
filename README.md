@@ -50,6 +50,7 @@ first level should just touch what it is and how it is related.
 | System Design |   |
 | Reactive Programming |  |
 | Loggers |  |
+| GraphQL |  |
 
 _______________
 **Resources**: 
@@ -224,6 +225,7 @@ _______________
 Article : https://dev.to/tamerlang/understanding-solid-principles-single-responsibility-principle-523j
 Article : LSP - Liskov Substition principle (https://reflectoring.io/lsp-explained/ )
 Article : https://www.robinwieruch.de/learning-react/
+Article : https://dzone.com/articles/why-and-when-to-use-graphql-1
 
 YET to Add:
 Udemy Junit Course -in28minutes : https://www.udemy.com/course/mockito-tutorial-with-junit-examples/
