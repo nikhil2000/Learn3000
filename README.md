@@ -23,6 +23,7 @@ first level should just touch what it is and how it is related.
 | ORM - Hibernate |   |
 | [Microservices](#MicroServices) |   |
 | HTMl, CSS, JavaScript basics|   |
+| React / Angular  Basics|  |
 | Unit Testing - Junit|   |
 | Databases- NoSQL |   |
 | Linux Commands|   |
@@ -222,11 +223,13 @@ _______________
 # SOLID 
 Article : https://dev.to/tamerlang/understanding-solid-principles-single-responsibility-principle-523j
 Article : LSP - Liskov Substition principle (https://reflectoring.io/lsp-explained/ )
+Article : https://www.robinwieruch.de/learning-react/
 _______________
 **References**: 
 _______________
   [JavaRevisited : Java developer Roadmap](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#axzz8MQQhZREV) 
    [JavaDocs Tutorials ](https://docs.oracle.com/javase/tutorial/index.html)
+   
    
 
    | Coding Practice | https://leetcode.com/ | [https://neetcode.io/](https://neetcode.io/roadmap)  | 
