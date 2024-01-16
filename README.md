@@ -51,6 +51,8 @@ first level should just touch what it is and how it is related.
 | Reactive Programming |  |
 | Loggers |  |
 | GraphQL |  |
+| [Miscellaneous concepts](#Misc) |  |
+
 
 _______________
 **Resources**: 
@@ -224,6 +226,12 @@ _______________
 # SOLID 
 Article : https://dev.to/tamerlang/understanding-solid-principles-single-responsibility-principle-523j
 Article : LSP - Liskov Substition principle (https://reflectoring.io/lsp-explained/ )
+
+
+# Misc
+[CDI vs Spring](https://stackoverflow.com/a/5974145/2606228)
+
+
 Article : https://www.robinwieruch.de/learning-react/
 Article : https://dzone.com/articles/why-and-when-to-use-graphql-1
 [Video: Time Complexity ](https://www.youtube.com/watch?v=BgLTDT03QtU)
