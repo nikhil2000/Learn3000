@@ -226,6 +226,7 @@ Article : https://dev.to/tamerlang/understanding-solid-principles-single-respons
 Article : LSP - Liskov Substition principle (https://reflectoring.io/lsp-explained/ )
 Article : https://www.robinwieruch.de/learning-react/
 Article : https://dzone.com/articles/why-and-when-to-use-graphql-1
+[Video: Time Complexity ](https://www.youtube.com/watch?v=BgLTDT03QtU)
 
 YET to Add:
 Udemy Junit Course -in28minutes : https://www.udemy.com/course/mockito-tutorial-with-junit-examples/
