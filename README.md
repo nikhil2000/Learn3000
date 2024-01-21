@@ -233,6 +233,7 @@ Article : LSP - Liskov Substition principle (https://reflectoring.io/lsp-explain
 
 
 Article : https://www.robinwieruch.de/learning-react/
+Book: https://github.com/softchris/react-book
 Article : https://dzone.com/articles/why-and-when-to-use-graphql-1
 [Video: Time Complexity ](https://www.youtube.com/watch?v=BgLTDT03QtU)
 
