@@ -240,11 +240,13 @@ Article : https://dzone.com/articles/why-and-when-to-use-graphql-1
 
 YET to Add:
 Udemy Junit Course -in28minutes : https://www.udemy.com/course/mockito-tutorial-with-junit-examples/
+
 _______________
 **References**: 
 _______________
   [JavaRevisited : Java developer Roadmap](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#axzz8MQQhZREV) 
    [JavaDocs Tutorials ](https://docs.oracle.com/javase/tutorial/index.html)
+   [log4j-vulerability : ](https://builtin.com/cybersecurity/log4j-vulerability-explained)
    
    
 
