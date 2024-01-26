@@ -21,6 +21,7 @@ first level should just touch what it is and how it is related.
 | Spring Boot|   |
 | Spring Security|   |
 | Quarkus |   |
+| Spring Batch |   |
 | ORM - Hibernate |   |
 | [Microservices](#MicroServices) |   |
 | HTMl, CSS, JavaScript basics|   |
