@@ -5,7 +5,7 @@ first level should just touch what it is and how it is related.
 
 | Topic  | Progress|
 | --- |---|
-| [Core Java](#Core-Java-) | ✓ |
+| [Core Java](#Core-Java-) | Level-1 |
 | SQl Basics |  |
 | Advanced Java -Servlets, JSP, JDBC|   |
 | Git Basics |   |
@@ -251,5 +251,5 @@ _______________
    
 
    | Coding Practice | https://leetcode.com/ | [https://neetcode.io/](https://neetcode.io/roadmap)  | 
-   |MIcroservices- article : https://www.atlassian.com/microservices/microservices-architecture |    |    |
+   |MIcroservices- article : https://www.atlassian.com/microservices/microservices-architecture |    |   ✓  |
 
