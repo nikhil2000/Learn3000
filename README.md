@@ -54,6 +54,7 @@ first level should just touch what it is and how it is related.
 | Loggers |  |
 | GraphQL |  |
 | [Miscellaneous concepts](#Misc) |  |
+| My Projects |  |
 
 
 _______________
@@ -229,10 +230,15 @@ _______________
 Article : https://dev.to/tamerlang/understanding-solid-principles-single-responsibility-principle-523j
 Article : LSP - Liskov Substition principle (https://reflectoring.io/lsp-explained/ )
 
+# My Projects
+  | Resource  | Progress|
+  |---|---|
+  | All Tech used - interview questions | X |
+  | My Project flow of previous projects | X |
+  | PlaceHolder | X |
 
 # Misc
 [CDI vs Spring](https://stackoverflow.com/a/5974145/2606228)
-
 
 Article : https://www.robinwieruch.de/learning-react/
 Book: https://github.com/softchris/react-book
