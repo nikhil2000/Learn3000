@@ -53,6 +53,7 @@ first level should just touch what it is and how it is related.
 | Reactive Programming |  |
 | Loggers |  |
 | GraphQL |  |
+| Helm |  |
 | [Miscellaneous concepts](#Misc) |  |
 | My Projects |  |
 
