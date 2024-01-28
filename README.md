@@ -3,9 +3,9 @@ Experienced Java Developer Checklist:
 Add Levels -1,2,3 in each topic and interview questions.
 first level should just touch what it is and how it is related.
 
-| Topic  | Progress|
+| Topic  | Basic Understanding done |
 | --- |---|
-| [Core Java](#Core-Java-) | Level-1 |
+| [Core Java](#Core-Java-) |  |
 | SQl Basics |  |
 | Advanced Java -Servlets, JSP, JDBC|   |
 | Git Basics |   |
