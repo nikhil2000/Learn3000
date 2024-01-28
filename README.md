@@ -5,7 +5,7 @@ first level should just touch what it is and how it is related.
 
 | Topic  | Basic Understanding done |
 | --- |---|
-| [Core Java](#Core-Java-) |  |
+| [Core Java](#Core-Java-) |  ✓ |
 | SQl Basics |  |
 | Advanced Java -Servlets, JSP, JDBC|   |
 | Git Basics |   |
