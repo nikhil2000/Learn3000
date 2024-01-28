@@ -38,7 +38,8 @@ first level should just touch what it is and how it is related.
 | Cloud basics - AWS / GCP / Azure|   |
 | TDD |   |
 | BDD & Cucumber |   |
-| Docker, k8|   |
+| Docker|   |
+| Kubernetes (k8) / Openshift |  |
 | Writing Clean Code|   |
 | Refactoring |   |
 | Auditing - Sonarcube/ Veracode|   |
