@@ -42,6 +42,7 @@ first level should just touch what it is and how it is related.
 | Kubernetes (k8) / Openshift |  |
 | Writing Clean Code|   |
 | Refactoring |   |
+| Debugging   |   |
 | Auditing - Sonarcube/ Veracode|   |
 | Caching / Cache memory |   |
 | Message Brokers |   |
