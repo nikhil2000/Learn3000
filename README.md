@@ -105,6 +105,7 @@ _______________
 | Resource  | Progress|
 |---|---|
 | [space and time complexity](https://google.com) | X |
+| [Big-o-notation ](https://neetcode.io/courses/lessons/big-o-notation) | X |
 
 
 # Java 8:
