@@ -138,6 +138,7 @@ _______________
   | Resource  | Progress|
   |---|---|
   | [Udemy: Java Multithreading](https://www.udemy.com/course/java-multithreading/) | X |
+  | [Linkedin Learning: Threads](https://www.linkedin.com/learning/java-threads/what-you-should-know) | X |
   </details>
 
   
@@ -157,6 +158,13 @@ _______________
 |---|---|
 | [Book: Grokking the Spring Boot interview By Javin Paul](https://www.amazon.in/Grokking-Spring-Boot-Interview-Javin-ebook/dp/B08V1NN4LW/) | X |
 | [SpringBoot Quickstart: Javabrains by koushik kothgal ](https://www.javabrains.io/courses/take/springboot-quickstart/) | X |
+
+# Spring Security:
+
+| Resource  | Progress|
+|---|---|
+| [Linkedin Learning: Spring-Security ](https://www.linkedin.com/learning/spring-spring-security-15832928/secure-with-spring-security) | X |
+
 
 
 # Hibernate:
