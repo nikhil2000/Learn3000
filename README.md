@@ -273,7 +273,8 @@ _______________
 _______________
   [JavaRevisited : Java developer Roadmap](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#axzz8MQQhZREV) 
    [JavaDocs Tutorials ](https://docs.oracle.com/javase/tutorial/index.html)
-   [log4j-vulerability : ](https://builtin.com/cybersecurity/log4j-vulerability-explained)
+   [log4j-vulerability  ](https://builtin.com/cybersecurity/log4j-vulerability-explained)
+   [Data Structure Visualization ](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
    
    
 
