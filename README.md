@@ -118,7 +118,7 @@ _______________
 | Resource  | Progress|
 |---|---|
 |[Udemy Course: Java8 by Durga ](https://www.udemy.com/course/java-8-new-features-in-simple-way) | X |
-|[ Udemy Course: java Streams ] (https://udemy.com/course/java-streams/learn/lecture/7578826#overview) | X |
+|[ Udemy Course: java Streams ] (https://udemy.com/course/java-streams/learn/lecture/7578826#overview) | ✓ |
 |[Java8 Stream API cheatsheet ](https://satishkathiriya99.medium.com/java-stream-api-cheatsheet-4e8c10d799dc) | X |
 |[Java8 Stream API coding Interview Questions ](https://medium.com/@moiz.mhb/java-8-stream-api-interview-questions-7336f8a17968) | ✓ |
 |[Medium: Few Examples ](https://medium.com/javarevisited/java-8-stream-api-with-examples-fc7b083e9ebb) | X |
