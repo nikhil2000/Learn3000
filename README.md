@@ -61,6 +61,7 @@ first level should just touch what it is and how it is related.
 | Loggers |  |
 | GraphQL |  |
 | Helm |  |
+| Swagger |  |
 | [Miscellaneous concepts](#Misc) |  |
 | My Projects |  |
 
