@@ -171,7 +171,9 @@ _______________
 |---|---|
 | [Book: Grokking the Spring Boot interview By Javin Paul](https://www.amazon.in/Grokking-Spring-Boot-Interview-Javin-ebook/dp/B08V1NN4LW/) | X |
 | [SpringBoot Quickstart: Javabrains by koushik kothgal ](https://www.javabrains.io/courses/take/springboot-quickstart/) | X |
-| [SpringBoot Documentation ](https://github.com/spring-projects/spring-boot) | X |
+| [SpringBoot Github ](https://github.com/spring-projects/spring-boot) | X |
+| [SpringBoot Documentation ](https://docs.spring.io/spring-boot/docs/3.2.0/reference/htmlsingle/#using ) | X |
+| [SpringBoot Official Guides ](https://spring.io/projects/spring-boot ) | X |
 
 # Spring Security:
 
