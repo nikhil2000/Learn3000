@@ -282,7 +282,10 @@ Article : https://dzone.com/articles/why-and-when-to-use-graphql-1
 YET to Add:
 Udemy Junit Course -in28minutes : https://www.udemy.com/course/mockito-tutorial-with-junit-examples/
 Sonar Qube- custom rules  : https://github.com/SonarSource/sonar-java/blob/master/docs/CUSTOM_RULES_101.md
-Spring Batch:  https://www.youtube.com/watch?v=hr2XTbKSdAQ
+Spring Batch: 
+https://www.youtube.com/watch?v=hr2XTbKSdAQ
+[Documentation FAQ : spring Batch ](hhttps://docs.spring.io/spring-batch/reference/faq.html)
+
 
 _______________
 **References**: 
