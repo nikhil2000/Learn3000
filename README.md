@@ -55,7 +55,7 @@ first level should just touch what it is and how it is related.
 | JPA |   |
 | Networking and Protocols |   |
 | Security |  | 
-|Coding Practice |   |
+| Good Coding Practice |   |
 | System Design |   |
 | Reactive Programming |  |
 | Loggers |  |
@@ -69,6 +69,7 @@ first level should just touch what it is and how it is related.
 _______________
 **Resources**: 
 _______________
+
 
 
 
@@ -285,6 +286,9 @@ Sonar Qube- custom rules  : https://github.com/SonarSource/sonar-java/blob/maste
 Spring Batch: 
 https://www.youtube.com/watch?v=hr2XTbKSdAQ
 [Documentation FAQ : spring Batch ](hhttps://docs.spring.io/spring-batch/reference/faq.html)
+
+Good Coding Practice
+| [YT videos: Clean Code by Uncle Bob](https://youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj&si=hTcuNjQ89rT4NuNU )
 
 
 _______________
