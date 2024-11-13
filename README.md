@@ -7,61 +7,61 @@ Experienced Java Developer Checklist:
 Add Levels -1,2,3 in each topic and interview questions.
 first level should just touch what it is and how it is related.
 
-| Topic  | Level-1 | Level-2 | level-3 | level-4 |
-| --- |---| --- |---|---|
-| [Core Java](#Core-Java-) |  ✓ |   |   |
-| SQl Basics |✓   |  |   |
-| Advanced Java -Servlets, JSP, JDBC|   | ✓  |   |   |
-| Git Basics |   |  ✓ |   |   |
-| CI/CD (Any tool) | ✓  |   |   |   |
-| Space and Time Complexities |  | ✓  |   |	|
-| Algorithms and Datastructures |  |   |  ✓ |	|
-| [Java8](#Java-8) | ✓ |   |   |
-| Java Internals - Collections,multithreading etc|  |   |   |✓	|
-| Java Internals - advanced |  |   |   |	✓|
-| SOLID & other Design Principles |  |  ✓ |   |	|
-| Design Patterns |  |   | ✓  |	|
-| [Spring](#Spring) | ✓ |   |   |	|
-| Spring MVC|  ✓  |   |   |
-| Spring Boot| ✓ |   |   |	|
-| Spring Security|✓  |   |   |	|
-| Quarkus |  | ✓  |   |	|
-| Spring Batch |  |   |  ✓ |	|
-| ORM - Hibernate |  |  ✓ |   |	|
-| [Microservices](#MicroServices) |  |   |   |✓	|
-| HTMl, CSS, JavaScript basics|  |   |   |	✓|
-| React / Angular  Basics|  |   |   | ✓  |
-| Unit Testing - Junit ,Mockito|  |   | ✓  |	|
-| Databases- NoSQL |  |   | ✓  |	|
-| Linux Commands|  |  ✓ |   |	|
-| Shell Scripting|  | ✓  |   |	|
-| SOAP and REST|  | ✓  |   |	|
-| Agile Model |  |   |   |	✓|
-| Build Tools- Maven /ANT /Gradle|  | ✓  |   |	|
-| JPA| ✓ |   |   |	|
-| OAuth |  |   |   |✓	|
-| Cloud basics - AWS / GCP / Azure|  |   | ✓  |	|
-| TDD |  |   |   |	✓|
-| BDD & Cucumber |  |   |   |✓	|
-| Docker|  |   |   |	✓|
-| Kubernetes (k8) / Openshift | ✓ |
-| Refactoring |  |   | ✓  |	|
-| Debugging   |  |   |   |	✓|
-| Auditing - Sonarcube/ Veracode|  |   |   |✓	|
-| Caching / Cache memory |  |   |   |✓	|
-| Message Brokers |  |   |   |	✓|
-| [Apache Kafka](#Kafka) |  |   |   |	✓|
-| Networking and Protocols |  |   |   |	|
-| Security |  |  ✓  |   |   |
-| Good Coding Practice |  |   |   |	✓|
-| System Design |  |   |   |	|✓	|
-| Reactive Programming |  |	|	✓|
-| Loggers |  |	✓|	|   |
-| GraphQL |  |	|	| ✓  |
-| Helm |  |	|	| ✓  |   
-| Swagger |  |	| ✓	|
-| [Miscellaneous concepts](#Misc) |  |	|✓	|   |
-| My Projects | ✓ |	|	|   |
+| Topic  | Level-1 | Level-2 | level-3 | level-4 | Completed??|
+| --- |---| --- |---|---|---|
+| [Core Java](#Core-Java-) |  ✓ |   |   |   | Done |
+| SQl Basics |✓   |  |   |   |
+| Advanced Java -Servlets, JSP, JDBC|   | ✓  |   |   |   |
+| Git Basics |   |  ✓ |   |   |   |
+| CI/CD (Any tool) | ✓  |   |   |   |   |
+| Space and Time Complexities |  | ✓  |   |	|   |
+| Algorithms and Datastructures |  |   |  ✓ |	|   |
+| [Java8](#Java-8) | ✓ |   |   |   |
+| Java Internals - Collections,multithreading etc|  |   |   |✓	|   |
+| Java Internals - advanced |  |   |   |	✓|   |
+| SOLID & other Design Principles |  |  ✓ |   |	|   |
+| Design Patterns |  |   | ✓  |	|   |
+| [Spring](#Spring) | ✓ |   |   |	|   |
+| Spring MVC|  ✓  |   |   |   |
+| Spring Boot| ✓ |   |   |	|   |
+| Spring Security|✓  |   |   |	|   |
+| Quarkus |  | ✓  |   |	|   |
+| Spring Batch |  |   |  ✓ |	|   |
+| ORM - Hibernate |  |  ✓ |   |	|   |
+| [Microservices](#MicroServices) |  |   |   |✓	|   |
+| HTMl, CSS, JavaScript basics|  |   |   |	✓|   |
+| React / Angular  Basics|  |   |   | ✓  |   |
+| Unit Testing - Junit ,Mockito|  |   | ✓  |	|   |
+| Databases- NoSQL |  |   | ✓  |	|   |
+| Linux Commands|  |  ✓ |   |	|   |
+| Shell Scripting|  | ✓  |   |	|   |
+| SOAP and REST|  | ✓  |   |	|   |
+| Agile Model |  |   |   |	✓|   |
+| Build Tools- Maven /ANT /Gradle|  | ✓  |   |	|   |
+| JPA| ✓ |   |   |	|   |
+| OAuth |  |   |   |✓	|   |
+| Cloud basics - AWS / GCP / Azure|  |   | ✓  |	|   |
+| TDD |  |   |   |	✓|   |
+| BDD & Cucumber |  |   |   |✓	|   |
+| Docker|  |   |   |	✓|   |
+| Kubernetes (k8) / Openshift | ✓ |   |
+| Refactoring |  |   | ✓  |	|   |
+| Debugging   |  |   |   |	✓|   |
+| Auditing - Sonarcube/ Veracode|  |   |   |✓	|   |
+| Caching / Cache memory |  |   |   |✓	|   |
+| Message Brokers |  |   |   |	✓|   |
+| [Apache Kafka](#Kafka) |  |   |   |	✓|   |
+| Networking and Protocols |  |   |   |	|   |
+| Security |  |  ✓  |   |   |   |
+| Good Coding Practice |  |   |   |	✓|   |
+| System Design |  |   |   |	|✓	|   |
+| Reactive Programming |  |	|	✓|   |
+| Loggers |  |	✓|	|   |   |
+| GraphQL |  |	|	| ✓  |   |
+| Helm |  |	|	| ✓  |      |
+| Swagger |  |	| ✓	|   |
+| [Miscellaneous concepts](#Misc) |  |	|✓	|   |   |
+| My Projects | ✓ |	|	|   |   |
 
 
 _______________
