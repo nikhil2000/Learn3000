@@ -71,6 +71,9 @@ Mock Interviews:
 | Link | Description |
 |---|---|
 |[Mock Interview Questions Github](https://github.com/codefarm0/interview-preparation) | Github link of CodeFarm: SpringBoot - Microservices -Java|
+
+DSA:
+
 _______________
 
 
@@ -117,6 +120,11 @@ _______________
 | [space and time complexity](https://google.com) | X |
 | [Big-o-notation ](https://neetcode.io/courses/lessons/big-o-notation) | X |
 
+# Data Structures and Algorithms
+
+| Resource  | Progress|
+|---|---|
+| [GFG - Self Paced 160 days DSA course ](https://www.geeksforgeeks.org/courses/gfg-160-series) | X |
 
 # Java 8:
 | Resource  | Progress|
