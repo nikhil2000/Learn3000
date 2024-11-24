@@ -315,3 +315,12 @@ _______________
    | Coding Practice | https://leetcode.com/ | [https://neetcode.io/](https://neetcode.io/roadmap)  | 
    |MIcroservices- article : https://www.atlassian.com/microservices/microservices-architecture |    |   ✓  |
 
+
+Learning help:
+1) Maintain microsoft onenotes for taking notes, so that u can have notes online. write below in onenote.
+   a) Write all the links in index.
+   b) And topics to cover 
+2) also, maintain a book/ notes for any offline notes along with a Memory Map.
+3) while learning coding, write code snippets ,save few snippets of your practice for future use in websites like onlinegdb.com
+4) 
+
