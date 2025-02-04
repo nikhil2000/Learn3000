@@ -9,7 +9,7 @@ first level should just touch what it is and how it is related.
 
 | Topic  | Level-1 | Level-2 | level-3 | level-4 | Completed??|
 | --- |---| --- |---|---|---|
-| [Core Java](#Core-Java-) |  ✓ |   |   |   | Done |
+| [Core Java](#Core-Java) |  ✓ |   |   |   | Done |
 | SQl Basics |✓   |  |   |   |
 | Advanced Java -Servlets, JSP, JDBC|   | ✓  |   |   |   |
 | Git Basics |   |  ✓ |   |   |   |
