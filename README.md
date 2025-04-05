@@ -286,9 +286,9 @@ Article : LSP - Liskov Substition principle (https://reflectoring.io/lsp-explain
 
 # Projectwise Tutorials
 | Resource  | Tech Used | Progress  |
-|---|---|
+|---|---|---|
 | [Spring Framework and Spring Boot Tutorial with Project- YT (Telusko ) ](https://www.youtube.com/watch?v=-Fe0zk-F4OA) | SpringBoot, Spring Data JPA , React| X |
-| [spaceholder](https://google.com) |  | X |
+| [spaceholder](https://google.com) | abcd | X |
 
 
 # Misc
