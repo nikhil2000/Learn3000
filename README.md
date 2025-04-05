@@ -62,6 +62,7 @@ first level should just touch what it is and how it is related.
 | Swagger |  |	| ✓	|   |
 | [Miscellaneous concepts](#Misc) |  |	|✓	|   |   |
 | My Projects | ✓ |	|	|   |   |
+| [Projectwise Tutorials](#Projectwise-Tutorials) | ✓ |	|	|   |   |
 
 
 _______________
@@ -75,7 +76,6 @@ Mock Interviews:
 DSA:
 
 _______________
-
 
 
 
@@ -283,6 +283,13 @@ Article : LSP - Liskov Substition principle (https://reflectoring.io/lsp-explain
   | All Tech used - interview questions | X |
   | My Project flow of previous projects | X |
   | PlaceHolder | X |
+
+# Projectwise Tutorials
+| Resource  | Tech Used | Progress  |
+|---|---|
+| [Spring Framework and Spring Boot Tutorial with Project- YT (Telusko ) ](https://www.youtube.com/watch?v=-Fe0zk-F4OA) | SpringBoot, Spring Data JPA , React| X |
+| [spaceholder](https://google.com) |  | X |
+
 
 # Misc
 [CDI vs Spring](https://stackoverflow.com/a/5974145/2606228)
