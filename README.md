@@ -142,7 +142,7 @@ _______________
 
 
 # Java 8plus:
-
+| Resource  | Progress|
 |---|---|
 |[Medium article:Java LTS Versions and Their Key Features ](https://medium.com/@jaouadirabeb/java-lts-versions-and-their-key-features-from-java-8-onwards-ae803672e0c7) | X |
 |[ Medium Article: Java Features from Java 8 to Java 24 ](https://medium.com/@sayedbaladoh/a-comprehensive-guide-to-java-features-from-java-8-to-java-24-with-examples-9901c859fa6d) | ✓ |
