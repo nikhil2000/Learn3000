@@ -265,9 +265,8 @@ _______________
  # Design Patterns
  | Resource  | Progress|
  |---|---|
- [Intro : article- 3 types of design patterns ](https://www.freecodecamp.org/news/the-basic-design-patterns-all-developers-need-to-know/) | X |
-
-  [Refactoring website ](https://refactoring.guru/design-patterns/catalog) | X |
+ |[Intro : article- 3 types of design patterns ](https://www.freecodecamp.org/news/the-basic-design-patterns-all-developers-need-to-know/) | X |
+ |[Refactoring website ](https://refactoring.guru/design-patterns/catalog) | X |
  | Singleton Pattern | X |
  | Factory Design Pattern | X |
  | Observer Pattern | X |
