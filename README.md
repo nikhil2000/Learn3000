@@ -171,6 +171,8 @@ _______________
   |---|---|
   | [Udemy: Java Multithreading](https://www.udemy.com/course/java-multithreading/) | X |
   | [Linkedin Learning: Threads](https://www.linkedin.com/learning/java-threads/what-you-should-know) | X |
+  | [Mit Article on Concurrency](https://web.mit.edu/6.005/www/fa14/classes/17-concurrency/) | X |
+
   </details>
 
   
