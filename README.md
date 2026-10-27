@@ -163,7 +163,6 @@ _______________
 
 
 # Java Internals :
-|---|
 # Java Multithreading:
   | Resource  | Progress|
   |---|---|
