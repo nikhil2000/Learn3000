@@ -30,6 +30,7 @@ first level should just touch what it is and how it is related.
 | Spring Batch |  |   |  ✓ |	|   |
 | ORM - Hibernate |  |  ✓ |   |	|   |
 | [Microservices](#MicroServices) |  |   |   |✓	|   |
+| [Microservices - Design Patterns](#MicroServices-design-patterns) |  |   |   |✓	|   |
 | HTMl, CSS, JavaScript basics|  |   |   |	✓|   |
 | React / Angular  Basics|  |   |   | ✓  |   |
 | Unit Testing - Junit ,Mockito|  |   | ✓  |	|   |
@@ -208,9 +209,13 @@ _______________
 |---|---|
 | [Youtube : Spring Boot Microservices Level 1: Communication and Discovery by koushik kothgal ](https://youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas&si=vEfDyH9f5GN_3P7_) | X |
 | [Javabrains course Level 2: Fault Tolerance and Resilience by koushik kothgal ](https://www.javabrains.io/courses/take/spring-boot-microservices-level-2) | X |
+
+
+#MicroServices-design-patterns:
+| Resource  | Progress|
+|---|---|
+| [IBM Article on Microservice Design patterns ](https://www.ibm.com/think/topics/microservices-design-patterns_) | X |
 | [Microservice Design Patterns SAGA by JavaTechie - YT ](https://www.youtube.com/playlist?list=PLVz2XdJiJQxw1H3JVhclHc__WYDaiS1uL)| X |
-
-
 
 # SOLID & other Design Principles:
 
