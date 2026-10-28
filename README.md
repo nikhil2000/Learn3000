@@ -214,7 +214,7 @@ _______________
 # MicroServices-design-patterns:
 | Resource  | Progress|
 |---|---|
-| [IBM Article on Microservice Design patterns ](https://www.ibm.com/think/topics/microservices-design-patterns_) | X |
+| [IBM Article on Microservice Design patterns ](https://www.ibm.com/think/topics/microservices-design-patterns) | X |
 | [Microservice Design Patterns SAGA by JavaTechie - YT ](https://www.youtube.com/playlist?list=PLVz2XdJiJQxw1H3JVhclHc__WYDaiS1uL)| X |
 
 # SOLID & other Design Principles:
