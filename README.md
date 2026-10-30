@@ -56,7 +56,7 @@ first level should just touch what it is and how it is related.
 | Networking and Protocols |  |   |   |	|   |
 | Security |  |  ✓  |   |   |   |
 | Good Coding Practice |  |   |   |	✓|   |
-| System Design |  |   |   |	|✓	|   |
+| [System Design](#System-Design) |  |   |   |	|✓	|   |
 | Reactive Programming |  |	|	✓|   |
 | Loggers |  |	✓|	|   |   |
 | GraphQL |  |	|	| ✓  |   |
@@ -278,6 +278,13 @@ _______________
   | [Intro -Kafka.com](https://kafka.apache.org/intro) | X |
   | [Kafka vs Message Brokers ](https://blog.iron.io/message-queue-vs-apache-kafka/ )| X |
 
+# System Design
+  | Resource  | Progress|
+  |---|---|
+  | [system-design-primer by Donne martin](https://github.com/donnemartin/system-design-primer) | X |
+  | [Shashank's Blog on System Design](https://github.com/shashank88/system_design#blog) | X |
+  | [1 hr Youtube video by Mikhail Smarshchok](https://www.youtube.com/watch?v=bUHFg8CZFws) | X |
+  | [Website Course by Bytebytego](https://www.hiredintech.com/system-design/) | X |
 
 
 # SOLID 
